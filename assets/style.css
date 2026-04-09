@@ -1,5 +1,14 @@
 body {
-  background-color: #f4ecd8;
-  color: #2b2b2b;
-  font-family: Georgia, "Times New Roman", serif;
+  max-width: 700px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+hr {
+  margin: 40px 0;
 }
