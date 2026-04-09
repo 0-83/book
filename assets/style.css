@@ -1,4 +1,7 @@
 body {
-  background-color: #0d0d0d;
-  color: #ffffff;
+  background-image: url('/assets/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
 }
